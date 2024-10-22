@@ -1,0 +1,1 @@
+Example of an implementation of the APPD method for simulating the Hodgkin-Huxley equations. The model used here is the classical 4-dimensional one, and includes a 5-dimensional cortical model as well. Code is based off of work by Ningyuan Wang.
