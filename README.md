@@ -10,4 +10,5 @@ Repository Structure
 The main folder contains an implementation of the original APPD method for the 4D model. 
 phase_reduction uses a shot method to calculate the limit cycle of both models and 
 uses that as a metric for particle splits based on L2 distance to it. Numpy files and images
-from previous runs are stored in png_output.
+from previous runs are stored in png_output. The C++ implementation of the original method for
+4D Hodgkin-Huxley is stored in appd_cpp.
